@@ -173,7 +173,6 @@ namespace Metro.ViewModels
 
             this.SearchCmb = "";
             this.SearchTxt = "";
-
             this.LoadTickets();
         }
 
